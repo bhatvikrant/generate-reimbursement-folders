@@ -1,6 +1,6 @@
 # editor configs
 .idea
-.vscode
+# .vscode
 .gradle
 build
 
