@@ -1,0 +1,18 @@
+# editor configs
+.idea
+.vscode
+.gradle
+build
+
+# logs
+*-debug.log
+*-error.log
+
+node_modules
+/package-lock.json
+dist/
+
+# local environment secrets files
+.env.*.secrets
+
+.DS_Store
