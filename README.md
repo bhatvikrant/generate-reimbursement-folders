@@ -1,4 +1,4 @@
-# Generate Reinbursement Folders
+# Generate Reimbursement Folders
 ## What does this project do?
 This project creates folders with beautiful icons for helping you manage your reimbursement claims nicely.
 It scaffolds the following structure:
