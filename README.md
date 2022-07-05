@@ -25,6 +25,9 @@ It scaffolds the following structure:
     │       └── 1-January            
     │       ...                 
     └── ...
+    
+### Video walkthrough of the folders:
+https://user-images.githubusercontent.com/50735025/177342949-a583af8e-379f-48d7-a64f-ec328fbd73c7.mov
 
 
 ### Node, TS project setup
@@ -39,3 +42,11 @@ https://blog.appsignal.com/2022/01/19/how-to-set-up-a-nodejs-project-with-typesc
 
 ### Create NPX tool references
 - https://blog.shahednasser.com/how-to-create-a-npx-tool/
+
+
+
+
+
+
+
+
