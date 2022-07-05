@@ -44,12 +44,12 @@ function createMonthFolders() {
 
 
 # STEP 1: Create parent folder and set it's icon
-createParentFolder # <--- function call, lol
+createParentFolder # <--- function call, lol bash script syntax is weird
 ##############
 
 # STEP 2: Loop over years and set their icons
 for (( i = 0; i < ${#years[@]}; ++i )); do
-    echo "Creating folder: ${years[i]}"
+    echo "🙌🏻 Creating folder: ${years[i]}"
     yearFolderName="${years[i]}"
     yearFolderPath="${parentFolderName}/${yearFolderName}"
 
@@ -60,3 +60,6 @@ for (( i = 0; i < ${#years[@]}; ++i )); do
     # STEP 3: Create month folders and set their icons
     createMonthFolders "${yearFolderName}" # <--- another function call, lol
 done
+
+echo "✅ Done creating ${parentFolderName} and it's subfolders!"
+echo "✨ You can copy and paste the folder to any other place now! ✨"
