@@ -8,3 +8,6 @@ https://blog.appsignal.com/2022/01/19/how-to-set-up-a-nodejs-project-with-typesc
 - https://stackabuse.com/executing-shell-commands-with-node-js/
 - https://www.npmjs.com/package/fileicon
 - https://manik.cc/2020/05/21/macicons.html
+
+# Create NPX tool references
+- https://blog.shahednasser.com/how-to-create-a-npx-tool/
